@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "H:\\Mohamed Abo_Hadhod\\C\u002B\u002B course 5\\Math Game Project perfect solution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0311A5E0-0461-4DD8-A6E5-A65AA522EDB2}|Math Game Project perfect solution\\Math Game Project perfect solution.vcxproj|H:\\Mohamed Abo_Hadhod\\C\u002B\u002B course 5\\Math Game Project perfect solution\\Math Game Project perfect solution\\Math Game Project perfect solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0311A5E0-0461-4DD8-A6E5-A65AA522EDB2}|Math Game Project perfect solution\\Math Game Project perfect solution.vcxproj|solutionrelative:Math Game Project perfect solution\\Math Game Project perfect solution.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{0311A5E0-0461-4DD8-A6E5-A65AA522EDB2}|Math Game Project\\Math Game Project.vcxproj|H:\\Mohamed Abo_Hadhod\\C\u002B\u002B course 5\\Math Game Project perfect solution\\Math Game Project\\Math Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0311A5E0-0461-4DD8-A6E5-A65AA522EDB2}|Math Game Project\\Math Game Project.vcxproj|solutionrelative:Math Game Project\\Math Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\throw_bad_alloc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
@@ -20,7 +20,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,11 +36,23 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Math Game.cpp",
+              "DocumentMoniker": "H:\\Mohamed Abo_Hadhod\\C\u002B\u002B course 5\\Math Game Project perfect solution\\Math Game Project\\Math Game.cpp",
+              "RelativeDocumentMoniker": "Math Game Project\\Math Game.cpp",
+              "ToolTip": "H:\\Mohamed Abo_Hadhod\\C\u002B\u002B course 5\\Math Game Project perfect solution\\Math Game Project\\Math Game.cpp",
+              "RelativeToolTip": "Math Game Project\\Math Game.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-03T14:58:29.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "xstring",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
-              "ViewState": "AQIAAPEIAAAAAAAAAIAwwPwIAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-07-28T04:11:50.291Z"
             },
@@ -50,22 +62,8 @@
               "Title": "throw_bad_alloc.cpp",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
               "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\crt\\src\\vcruntime\\throw_bad_alloc.cpp",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAawCMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-27T08:40:11.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Math Game Project perfect solution.cpp",
-              "DocumentMoniker": "H:\\Mohamed Abo_Hadhod\\C\u002B\u002B course 5\\Math Game Project perfect solution\\Math Game Project perfect solution\\Math Game Project perfect solution.cpp",
-              "RelativeDocumentMoniker": "Math Game Project perfect solution\\Math Game Project perfect solution.cpp",
-              "ToolTip": "H:\\Mohamed Abo_Hadhod\\C\u002B\u002B course 5\\Math Game Project perfect solution\\Math Game Project perfect solution\\Math Game Project perfect solution.cpp",
-              "RelativeToolTip": "Math Game Project perfect solution\\Math Game Project perfect solution.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-03T14:37:20.859Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Math Game Project perfect solution.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Math Game.cpp
+H:\Mohamed Abo_Hadhod\C++ course 5\Math Game Project perfect solution\Math Game Project\Math Game.cpp(115,1): warning C4715: 'CalcRightAnswer': not all control paths return a value
+  Math Game Project perfect solution.vcxproj -> H:\Mohamed Abo_Hadhod\C++ course 5\Math Game Project perfect solution\x64\Debug\Math Game.exe
